@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "926930385827",
+    "firebase_url": "https://lostplacemap.firebaseio.com",
+    "project_id": "lostplacemap",
+    "storage_bucket": "lostplacemap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926930385827:android:7a7aba5429930d19bdf816",
+        "android_client_info": {
+          "package_name": "com.example.lostplacemap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926930385827-452ngsj43lbiqbghs9273ngfa128h7v3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lostplacemap",
+            "certificate_hash": "6336a1598e99ca441127ae201226db9d50f76290"
+          }
+        },
+        {
+          "client_id": "926930385827-malc3b180dqu3q74d3iambh24dbu9p7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lostplacemap",
+            "certificate_hash": "578d0e437477eaa2a8b29b6325fe61a937ca0d84"
+          }
+        },
+        {
+          "client_id": "926930385827-ro9t8fgqpkg17pikthqaq4nnkm87i7po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-GLJWupEaGX7b6Q3xo4knHdcoGG88pMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926930385827-ro9t8fgqpkg17pikthqaq4nnkm87i7po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
